@@ -1,0 +1,1 @@
+function hello() {\n  console.log(\"Jello\")\n}
